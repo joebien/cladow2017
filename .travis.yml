@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+ — “7”
+script:
+ — echo “Deploy!!”
+install:
+ — npm install -g firebase-tools
+after_success:
+ — firebase deploy — project newcladow — token 1/ZecAPV805IswgjY3K4flaga_eh7E_ok1HpXSn9wJCLk
