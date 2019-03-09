@@ -1,1 +1,1 @@
-Mock retail site using react express and firebase cloud
+Mock retail site with shopping cart built with react.
